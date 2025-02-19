@@ -17,4 +17,20 @@
 + Bảng đánh giá mô hình sau khi đã được huấn luyện
 ![image](https://github.com/user-attachments/assets/69397db7-2eab-4199-9dd4-24c4143647ef)
 
++ Output
+  ![image](https://github.com/user-attachments/assets/65d7edf2-3d6b-4fc5-a94b-4b82bb2b337e)
++ UI
+  ![image](https://github.com/user-attachments/assets/b5aa7d65-8788-4cc8-9038-d4d97996254f)
++ Nhập thông tin
+  ![image](https://github.com/user-attachments/assets/6680b183-91c2-4147-b215-4affc18ed5c1)
++ Sau khi nhập thông tin
+  ![image](https://github.com/user-attachments/assets/ca5a15f5-a129-4e37-893e-a3682a6f80a8)
+  ![image](https://github.com/user-attachments/assets/e74692d2-cfbd-4b1f-921c-e266109ab561)
+  ![image](https://github.com/user-attachments/assets/e4bfb258-6122-4ffb-ae9c-c730b558a1e4)
+  ![image](https://github.com/user-attachments/assets/3eb40ab3-ea4f-4104-99ca-52854e251f50)
+
+
+
+
+
 
