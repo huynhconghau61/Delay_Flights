@@ -14,4 +14,7 @@
   -  Đào tạo mô hình: Sử dụng dữ liệu đã được tiền xử lý để đào tạo các mô hình, áp dụng kỹ thuật chia tập dữ liệu thành tập huấn luyện và tập kiểm tra để đánh giá mô hình một cách khách quan.
   -  Đánh giá mô hình: Sử dụng các chỉ số đánh giá như độ chính xác, F1 score, ROC-AUC để đánh giá hiệu suất của mô hình trên tập dữ liệu kiểm tra.
   -  Triển khai thực tế: Tích hợp mô hình vào hệ thống IT của hãng hàng không hoặc sân bay để cung cấp dự đoán độ trễ chuyến bay trong thời gian thực.
-  -  
++ Bảng đánh giá mô hình sau khi đã được huấn luyện
+![image](https://github.com/user-attachments/assets/69397db7-2eab-4199-9dd4-24c4143647ef)
+
+
